@@ -55,7 +55,8 @@ Command on Windows
 
 
 4. Ref
----
+-------
 
-# https://huggingface.co/docs/lerobot/installation
-# https://github.com/TheRobotStudio/SO-ARM100
+1. https://huggingface.co/docs/lerobot/installation
+
+2. https://github.com/TheRobotStudio/SO-ARM100
