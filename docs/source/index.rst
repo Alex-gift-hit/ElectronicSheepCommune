@@ -6,14 +6,18 @@ Welcome to EsCommune's documentation!
 B站官方 `电子羊公社 <https://space.bilibili.com/309967369>`_
 
 
-.. note::
-
-   This project is under active development.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   embodied/index
+   LeRobot/index
+
+
+.. note::
+
+   This project is under active development.
+   
+https://www.sphinx-doc.org/zh-cn/master/usage/restructuredtext/index.html
