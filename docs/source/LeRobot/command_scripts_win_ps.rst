@@ -1,5 +1,6 @@
+*******
 Scripts
---------
+*******
 
 lerobot-setup-motors --robot.type=so101_follower --robot.port=COM3
 

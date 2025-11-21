@@ -1,8 +1,10 @@
+**********************
 [入门] 两次微调LLM获得VLA
-======================
+**********************
 
 开源项目地址
-----------
+==========
+
 SayCan https://say-can.github.io/
 
 RT-1 https://robotics-transformer1.github.io/
@@ -12,7 +14,7 @@ OpenVLA https://github.com/openvla/openvla
 OpnePi(Pi0, Pi0.5)  https://github.com/Physical-Intelligence/openpi
 
 Ref
----
+===
 
 1. A. Vaswani, N. Shazeer, N. Parmar, J. Uszkoreit, L. Jones, A. N. Gomez, Ł. Kaiser, and I. Polosukhin. Attention is all you need. Advances in neural information processing systems, 30, 2017.
 

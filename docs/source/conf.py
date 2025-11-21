@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'ElectronicSheepCommune'
-copyright = '2025, ESC'
+copyright = '2025, EsC'
 author = ' JiaMin'
 
 release = '0.1'

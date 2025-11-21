@@ -1,8 +1,9 @@
-Command on Windows
-=====
+**************************
+Install LeRobot on Windows
+**************************
 
-1. Environment Setup
-------------
+Environment Setup
+=================
 
 .. code-block:: console
 
@@ -29,8 +30,9 @@ CMD中使用where命令查看具体的位置。PowerShell中使用where.exe命�
     G:\ProgramFile\Anaconda2506\envs\lerobot\Library\bin\ffmpeg.exe
 
 
-2. Install LeRobot
----------------
+Install LeRobot
+===============
+
 强烈建议从源码处安装lerobot,可以自己改代码。
 
 毕竟是开源项目，里面很多bug，有时候自己发现了就可以改，例如windows下的openCV backend选择问题。
@@ -49,8 +51,8 @@ CMD中使用where命令查看具体的位置。PowerShell中使用where.exe命�
     编辑模式下安装的是默认依赖，可选依赖不会安装，例如 feetech-servo-sdk.
 
 
-3. Install Motor Optional dependencies
--------------------------------------------
+Install Motor Optional dependencies
+======================================
 
 .. code-block::
 
@@ -58,9 +60,9 @@ CMD中使用where命令查看具体的位置。PowerShell中使用where.exe命�
 
 
 
-4. Ref
--------
+Ref
+======
 
-1. https://huggingface.co/docs/lerobot/installation
+.. [1] https://huggingface.co/docs/lerobot/installation
 
-2. https://github.com/TheRobotStudio/SO-ARM100
+.. [2] https://github.com/TheRobotStudio/SO-ARM100
